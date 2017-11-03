@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Yan # your blog title name
+title: 离离原上草 # your blog title name
 subtitle:  Welcome!
-author: Yan Jie # 作者
+author: 严杰 # 作者
 language: zh-CN
-timezone:
+timezone: 
 
 # custom Site settings
 # more detail check out docs
 SEOTitle: Yantop
-header-img: //img.t.sinajs.cn/t5/skin/public/profile_cover/001.jpg
+header-img: //o7bkkhiex.bkt.clouddn.com/lion-blur-bg.jpg
 email: yan_top@foxmail.com
-description: "YanJie在 Github 上的个人博客"
+description: "严杰在 Github 上的个人博客"
 keyword: 个人博客
 
 favicon: # your favicon png
@@ -33,15 +33,15 @@ weibo_username:
 zhihu_username: yantop
 github_username: yantop
 twitter_username:
-facebook_username:
-linkedin_username:
+facebook_username:  
+linkedin_username:  
 
 # Build settings
 anchorjs: false                        # if you want to customize anchor. check out line:181 of `post.html`
 
 
-# Disqus settings
-disqus_username:
+# Disqus settings 
+disqus_username: 
 
 # Duoshuo settings
 duoshuo_username:  # 你的多说帐号
@@ -60,7 +60,7 @@ ga_domain:
 
 # Sidebar settings
 sidebar-about-description: 一个懒散的码农
-sidebar-avatar: https://avatars2.githubusercontent.com/u/16362150?s=400&u=9193583f30693ecc7033884db4360f67f3868d94&v=4
+sidebar-avatar: https://avatars2.githubusercontent.com/u/16362150?s=400&u=9b02542e9ff1591b9e82d3a7eeea88a71b9ab530&v=4
 
 
 # Featured Tags
@@ -131,9 +131,9 @@ theme: Anisina
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repository: https://github.com/yantop/yantop.github.io.git
-  branch: master
+  type: 
+  repo: 
+  branch: 
 
 
 # img CDN path
@@ -146,14 +146,14 @@ clip-avatar: "?imageView2/2/w/300/h/300/interlace/1/q/90"
 clip-home-post-bg: "?imageView2/1/w/800/h/300/interlace/1/q/70"
 
 # post default images
-post-default-img: http://img.infinitynewtab.com/wallpaper/128.jpg
-post-default-img-mobile: http://desk.fd.zol-img.com.cn/t_s1024x768c5/g5/M00/0B/06/ChMkJle8PNqIIsQ8AAXDPpqibw0AAUquALwalwABcNW824.jpg
+post-default-img: #博文默认的图片
+post-default-img-mobile: #移动端显示的图片
 
 # search api , set your custom key
-swiftype_key:
+swiftype_key: 
 
 
-# archive page title
+# archive page title 
 archive:
     title: archives
     description: 可以根据归档日期检索所有文件
